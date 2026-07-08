@@ -169,7 +169,7 @@ Through this internship project, I gained practical experience in:
 
 # 👨‍💻 Author
 
-**yUviii**
+**Yuvraj Gupta**
 
 B.Tech Computer Science Engineering
 
